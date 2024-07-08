@@ -1,0 +1,40 @@
+/*                   LOGIN PAGE CSS                    */
+
+
+
+
+html,body{
+    background-color: #000035;
+}
+.LoginForm img{
+    border-radius: 180px;
+    position: relative;
+    right: -110px;
+}
+h1{
+    text-align: center;
+    /* color: ; */
+}
+.form-floating
+{
+    background-color: none;
+}
+.forgotPassword a
+{
+    text-decoration: none;
+    
+}
+.forgotPassword a:hover
+{
+    color: blue;
+    font-size: large;
+    
+}
+.NotUser a
+{
+    text-decoration: none;
+}
+.NotUser a:hover
+{
+    font-size: large;
+}
